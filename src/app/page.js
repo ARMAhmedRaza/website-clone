@@ -415,9 +415,9 @@ export default function Home() {
           <h2 className=" font-bold text-3xl">Caring is the new marketing</h2>
           <p className=" mt-5 text-md">
             The Nextcent blog is the best place to read about the latest
-            membership insights, trends and more. See who's joining the
+            membership insights, trends and more. See who&apos;s joining the
             community, read about how our community are increasing their
-            membership income and lot's more.​
+            membership income and lot&apos;s more.​
           </p>
         </div>
         <div>

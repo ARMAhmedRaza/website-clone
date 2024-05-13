@@ -15,7 +15,7 @@ export default function Home() {
           <div>
             <Image
               alt="ROOT"
-              src={"https://nextcent-silk.vercel.app/nexcent-logo.png  "}
+              src={"/nexcent-logo.png"}
               width={1000}
               height={1000}
               className="  md:w-[160px] w-[100px]  "
